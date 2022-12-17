@@ -1,0 +1,2 @@
+# Mindsoft
+gradutaion project
